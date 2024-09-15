@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kineticqr"
+    namespace = "com.example.image_gallery_saver"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
